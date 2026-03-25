@@ -1,0 +1,10 @@
+<h2>Join Hawkcraft Java Server</h2>
+<p>Server IP: <strong>play.hawkcraft.com</strong></p>
+<p>Follow these steps to join:</p>
+<ol>
+  <li>Open Minecraft Java Edition.</li>
+  <li>Go to Multiplayer → Add Server.</li>
+  <li>Enter the server IP: <strong>play.hawkcraft.com</strong></li>
+  <li>Click Join Server!</li>
+</ol>
+<p>The server will be live soon. Download links for server files will be added later.</p>
